@@ -1,0 +1,1 @@
+int cuadrados (int n);

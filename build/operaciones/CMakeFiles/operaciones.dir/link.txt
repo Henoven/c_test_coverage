@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboperaciones.a  CMakeFiles/operaciones.dir/source/operaciones.c.o
+/usr/bin/ranlib liboperaciones.a

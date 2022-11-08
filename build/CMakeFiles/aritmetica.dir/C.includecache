@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Documents/micropro/examen_final/cuadrados/include/Cuadrados.h
+
+/home/pi/Documents/micropro/examen_final/main.c
+stdio.h
+-
+operaciones/include/operaciones.h
+/home/pi/Documents/micropro/examen_final/operaciones/include/operaciones.h
+cuadrados/include/Cuadrados.h
+/home/pi/Documents/micropro/examen_final/cuadrados/include/Cuadrados.h
+
+/home/pi/Documents/micropro/examen_final/operaciones/include/operaciones.h
+

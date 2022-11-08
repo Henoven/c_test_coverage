@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCuadrados.a  CMakeFiles/Cuadrados.dir/source/Cuadrados.c.o
+/usr/bin/ranlib libCuadrados.a
